@@ -1,0 +1,1 @@
+print("Inna Stetsiuk, KN-5")
